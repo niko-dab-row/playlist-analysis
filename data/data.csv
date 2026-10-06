@@ -1,0 +1,21 @@
+ts,platform,ms_played,master_metadata_track_name,master_metadata_album_artist_name,master_metadata_album_album_name,reason_start,reason_end,shuffle,skipped
+2025-01-02 08:15:11,android,212000,Blinding Lights,The Weeknd,After Hours,trackdone,trackdone,False,False
+2025-01-02 08:18:45,android,185000,Save Your Tears,The Weeknd,After Hours,trackdone,trackdone,False,False
+2025-01-02 09:01:32,windows,95000,Take On Me,a-ha,Hunting High and Low,clickrow,nextbtn,True,True
+2025-01-02 09:03:15,windows,225000,Africa,Toto,Toto IV,trackdone,trackdone,True,False
+2025-01-03 18:22:02,android,193000,Numb,Linkin Park,Meteora,trackdone,trackdone,False,False
+2025-01-03 18:26:41,android,210000,In The End,Linkin Park,Hybrid Theory,trackdone,trackdone,False,False
+2025-01-04 12:14:55,ios,175000,Yellow,Coldplay,Parachutes,trackdone,trackdone,True,False
+2025-01-04 12:18:21,ios,243000,Viva La Vida,Coldplay,Viva La Vida,trackdone,trackdone,True,False
+2025-01-05 20:37:14,web_player,265000,Bohemian Rhapsody,Queen,A Night at the Opera,trackdone,trackdone,False,False
+2025-01-05 20:42:51,web_player,201000,Don't Stop Me Now,Queen,Jazz,trackdone,trackdone,False,False
+2025-01-06 10:12:34,android,123000,Bad Guy,Billie Eilish,When We All Fall Asleep,trackdone,nextbtn,True,True
+2025-01-06 10:15:57,android,185000,Lovely,Billie Eilish,Single,trackdone,trackdone,True,False
+2025-01-07 07:45:22,windows,221000,Shape of You,Ed Sheeran,Divide,trackdone,trackdone,False,False
+2025-01-07 07:50:01,windows,233000,Castle on the Hill,Ed Sheeran,Divide,trackdone,trackdone,False,False
+2025-01-08 17:03:08,android,197000,Smells Like Teen Spirit,Nirvana,Nevermind,trackdone,trackdone,True,False
+2025-01-08 17:08:55,android,208000,Come As You Are,Nirvana,Nevermind,trackdone,trackdone,True,False
+2025-01-09 22:14:39,ios,181000,Thunderstruck,AC/DC,The Razors Edge,trackdone,trackdone,False,False
+2025-01-09 22:19:01,ios,245000,Back In Black,AC/DC,Back In Black,trackdone,trackdone,False,False
+2025-01-10 14:27:13,web_player,228000,Mr. Brightside,The Killers,Hot Fuss,trackdone,trackdone,True,False
+2025-01-10 14:32:01,web_player,242000,Somebody Told Me,The Killers,Hot Fuss,trackdone,trackdone,True,False
